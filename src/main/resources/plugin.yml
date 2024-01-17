@@ -1,0 +1,4 @@
+name: MC-266334-Fixer
+version: '${project.version}'
+main: io.wdsj.mc266334fixer.Fixer
+api-version: '1.13'
