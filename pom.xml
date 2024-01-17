@@ -6,7 +6,7 @@
 
     <groupId>io.wdsj</groupId>
     <artifactId>MC-266334-Fixer</artifactId>
-    <version>1</version>
+    <version>Final</version>
     <packaging>jar</packaging>
 
     <name>MC-266334-Fixer</name>
